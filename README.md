@@ -3,6 +3,10 @@
 GROSEEチャンネルで公開している「初めてのiPhoneアプリ講座」シリーズで<br>
 紹介されたアプリのソースコード集です。<br>
 <br>
+Twitter:<a href="https://twitter.com/iPhoneByGROSEE">https://twitter.com/iPhoneByGROSEE</a><br>
+サポートブログ:<a href="http://supportblogaboutgrosee.blogspot.jp/">http://supportblogaboutgrosee.blogspot.jp/</a><br>
+GROSEEチャンネル：<a href="https://www.youtube.com/channel/UCIMvZ0gXhR6egpPb8R-rvSA">https://www.youtube.com/channel/UCIMvZ0gXhR6egpPb8R-rvSA</a>
+<br>
 <h2>第1回アプリ講座<br>
 「HelloYouTubeとiPhone画面に表示させよう」</h2>YouTube動画：http://youtu.be/R0szYT5R-wQ<br>
 プロジェクト名：「helloyoutube」<br>
